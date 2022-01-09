@@ -1,0 +1,41 @@
+body
+{
+font-family: 'Courier New', Courier, monospace;
+background-color:rgb(178, 237, 100);
+}
+
+.header_div
+{
+    background-color: aqua;
+    color: crimson;
+}
+
+.header_div p
+{font-family: 'Courier New', Courier, monospace;
+color: crimson;
+letter-spacing: 2px;
+font-size: 12px;
+font-weight: bold;
+}
+
+.main_div button
+{
+font-family: sans-serif;
+margin-top:30px;
+letter-spacing: 3px;
+font-weight: bolder;
+width:130px;
+}
+
+.copyright_footer
+{
+    color:blue;
+    position: fixed;
+    background-color: white;
+    text-align: center;
+    font-size:18px;
+    bottom: 0;
+    line-height: 2;
+    width:100%;
+    text-shadow: 5px 5px 6px grey;
+}
